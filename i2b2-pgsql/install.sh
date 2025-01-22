@@ -5,7 +5,7 @@
 # Pre-requisites - Install below softwares
 # docker, docker-compose, git, unzip
 
-I2B2_DATA_DIR="/root/github_release/dev_final/i2b2-docker-generator/i2b2-pgsql/i2b2-data/edu.harvard.i2b2.data/Release_1-8/NewInstall"
+I2B2_DATA_DIR="/root/github_release/prod_final/delete/i2b2-docker-generator/i2b2-pgsql/i2b2-data/edu.harvard.i2b2.data/Release_1-8/NewInstall"
 I2B2_WILDFLY_HOST="i2b2-wildfly"
 I2B2_WILDFLY_PORT="8080"
 
